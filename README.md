@@ -12,9 +12,9 @@ A detailed four to five road plan for commissioning as an intel officer in the a
 ### Year 1: Cyber + Tactical Foundation
 | Quarter | Objective                             | Outcome                                        |
 |---------|----------------------------------------|------------------------------------------------|
-| Q1–Q2   | Submit 25D reclass packet              | MOS transition initiated                       |
-| Q2–Q3   | Complete 25D AIT & earn Security+      | Certified Cyber Network Defender               |
-| Q3–Q4   | Attend Air Assault + Pathfinder School | Qualified in air insertion & sling-load ops    |
+| Q1–Q2  --- Submit 25D reclass packet              | MOS transition initiated                       |
+| Q2–Q3  --- Complete 25D AIT & earn Security+      | Certified Cyber Network Defender               |
+| Q3–Q4  --- Attend Air Assault + Pathfinder School | Qualified in air insertion & sling-load ops    |
 
 ### Year 2: Ranger Integration & Airborne Ops
 | Quarter | Objective             | Outcome                                            |
